@@ -1,0 +1,1 @@
+Put non-sensitive dummy PDFs/DOCX files here for screenshots. Nothing is generated automatically.
